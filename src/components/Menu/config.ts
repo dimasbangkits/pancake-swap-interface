@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://bsc-sniper-bos.netlify.app/',
+    href: 'https://bsc-sniper-bos.netlify.app/home',
   },
   {
     label: 'Trade',
