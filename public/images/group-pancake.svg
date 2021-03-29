@@ -3,11 +3,11 @@
     <style>
       .cls-1 {
         font-size: 52.902px;
-        fill: #07182a;
+        fill: #0098fe;
         text-anchor: middle;
-        font-family: Ravie;
+        font-family: Algerian;
       }
     </style>
   </defs>
-  <text id="COBA_COBA" data-name="COBA COBA" class="cls-1" transform="translate(700.027 298.506) scale(3.41)"><tspan x="0">COBA COBA</tspan></text>
+  <text id="BSC_GEMS_SNIPER" data-name="BSC GEMS SNIPER" class="cls-1" transform="translate(702.136 279.179) scale(3.007)"><tspan x="0">BSC GEMS SNIPER</tspan></text>
 </svg>
